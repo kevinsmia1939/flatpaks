@@ -37,8 +37,8 @@ modules:
       - rm -rf ${FLATPAK_DEST}/share/pixmaps
     sources:
       - type: archive
-        url: https://github.com/ahrm/sioyek/archive/v0.31.6.tar.gz
-        sha256: 3708f77a904a5eb0a2b1819a7e1cdfbc3eddb01ff79d8fe0f38e466079be8d85
+        url: https://github.com/ahrm/sioyek/archive/v1.0.0.tar.gz
+        sha256: 019f83135645e39e937ba3cf1d40025d8db35de6bc0c16002b1517f65c5d3d29
         x-checker-data:
           type: anitya
           project-id: 225470
