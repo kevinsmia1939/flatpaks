@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+    <id>info.sioyek.sioyek</id>
+    <launchable type="desktop-id">info.sioyek.sioyek.desktop</launchable>
+    <name>Sioyek</name>
+    <summary>PDF viewer</summary>
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>AGPL-3.0-only</project_license>
+    <description>
+        <p>
+           Sioyek is a PDF viewer designed for reading research papers and technical books. Some of the features are shown below.
+        </p>
+        <ul>
+            <li>Quickly search and open any file you have previously interacted with using sioyek.</li>
+            <li>Search and jump to table of contents entries.</li>
+            <li>Jump to any referenced figure or bibliography item.</li>
+            <li>Quickly jump back to where you were with marks.</li>
+            <li>Bookmarks</li>
+            <li>Highlight text using different kinds of highlight, you can search among all the highlights.</li>
+            <li>Using portals, you can link the paragraph's location to the figure's location.</li>
+            <li>Customize all key bindings and some UI elements.</li>
+        </ul>
+    </description>
+    <url type="homepage">https://sioyek.info/</url>
+    <url type="help">https://sioyek-documentation.readthedocs.io/en/latest/</url>
+    <url type="bugtracker">https://github.com/ahrm/sioyek/issues</url>
+    <screenshots>
+        <screenshot type="default">
+            <image>https://sioyek-documentation.readthedocs.io/en/latest/_images/overview.png</image>
+        </screenshot>
+        <screenshot>
+            <image>https://sioyek-documentation.readthedocs.io/en/latest/_images/visual_mark.png</image>
+        </screenshot>
+        <screenshot>
+            <image>https://sioyek-documentation.readthedocs.io/en/latest/_images/highlights.png</image>
+        </screenshot>
+        <screenshot>
+            <image>https://sioyek-documentation.readthedocs.io/en/latest/_images/portals.png</image>
+        </screenshot>
+    </screenshots>
+    <content_rating type="oars-1.1"/>
+    <releases>
+        <release version="1.0.0" date="2021-11-03"/>
+    </releases>
+</component>
